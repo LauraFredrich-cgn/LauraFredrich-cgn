@@ -1,7 +1,7 @@
 - 👋 Hi, I’m LauraFredrich
 - :mortar_board: I studied Data and Information Science @TH Köln
 - 👀 I’m interested in visualizing data: Dashboards, Charts, Infographics
-- 🌱 I’m currently learning programming in R and Python
+- 🌱 I’m currently programming in R and Python
 - 📫 How to reach me via E-mail l_fredrich@web.de
 - :computer: Open for Work 
 
